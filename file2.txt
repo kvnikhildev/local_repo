@@ -1,2 +1,2 @@
 this is a sample file 
-i add new line fromn the feature branch
+i add new line fromn the feature branch(changes from the feature)
